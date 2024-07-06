@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AbdelRahman Moustafa and I'm a Student at Alexandria University Faculty of Business Information BIS), from Egypt</h2>
+<h2 align="left">Hi 👋! My name is AbdelRahman Moustafa and I'm a Student at Alexandria University Faculty of Business Information BIS), from Egypt.</h2>
 
 ###
 
